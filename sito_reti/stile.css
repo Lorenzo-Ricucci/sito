@@ -1,0 +1,39 @@
+body{
+  background-color: #FFFFFF;
+  color: #000000;
+}
+h1{
+   color:#000000;
+  text-align:center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1e90ff;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #FF0000;
+}
+
+table,td{
+  background-color: 	#f8f8ff;
+   border: 2px solid;
+border-color: #1e90ff ;
+   table-layout: fixed;
+   width: 100%;
+}
